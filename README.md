@@ -12,6 +12,3 @@ Input Format: String
 List of Quarters
 
 Jun13, Sep13, Dec13, Mar14, Jun14, Sep14
-
-# end
-#changed
